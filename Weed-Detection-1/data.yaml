@@ -1,0 +1,12 @@
+names:
+- weed
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: weed-detection-nnxe9
+  url: https://universe.roboflow.com/arjun-ge2lc/weed-detection-nnxe9/dataset/1
+  version: 1
+  workspace: arjun-ge2lc
+test: ../test/images
+train: Weed-Detection-1/train/images
+val: Weed-Detection-1/valid/images
